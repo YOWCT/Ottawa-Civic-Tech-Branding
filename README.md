@@ -9,9 +9,11 @@ The concept of the logo is an open dialogue/work-in-progress for a diverse and i
 The logo is a type-face based design, with the caret at the end of it as if it is still being typed out on a computer screen,
 with a versatile set of colors to transform into anything we want to make.
 
-> More stuffs on recommended usage coming soon
+> **More stuffs on recommended usage coming soon**
 
-Font used in the styles: Proxima Nova family
+## Font used in the styles
+
+- Proxima Nova family
 
 ## Colors
 
