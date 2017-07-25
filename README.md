@@ -1,6 +1,6 @@
 # Ottawa CivicTech Branding
 
-![Logo](Ottawa Civic Tech Logo/Ottawa-Civic-Tech-Logo.png)
+![image](https://user-images.githubusercontent.com/550895/28553904-4546301c-70c4-11e7-97d2-8effce81ccc6.png)
 
 Raw vector file and different file formats of logo, and social media assets for Civic Tech brand stuff.
 Open to anyone who wants to play with the design and such.
